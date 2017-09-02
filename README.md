@@ -1,7 +1,7 @@
 run_analysis.R script by Github user: LeonFC1016
 
 THE DATA FROM THE EXPERIMENT:
-When the script runs, it will download a .zip file, and unload its contents and reads them to create the data sets for the project. When the script is done, two objects will be provided for use: messyData and tidyData. There is no output, because the data is too large.
+When the script runs, it will download a .zip file, and unload its contents and reads them to create the data sets for the project. When the script is done, two objects will be provided for use: messyData and tidyData. There is no output, because the data is too large. Both data sets are saved as .txt files in the folder from the .zip file.
 
 Though the script will download the content itself, the url to download the .zip file can be found here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. 
 
