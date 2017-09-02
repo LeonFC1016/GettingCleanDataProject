@@ -163,3 +163,4 @@ rm(castData, features, gatData, meltData, mergedData, sepData,
    subjectTest, subjectTrain, testSet, trainSet, xTest, xTrain, yTest, 
    yTrain, featureNames, fileUrl, actLabel, fixed, i, messyFixed, 
    messyTypo, typo, stdMean)
+View(tidyData)
